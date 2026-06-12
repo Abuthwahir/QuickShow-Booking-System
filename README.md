@@ -125,17 +125,7 @@ The client app will launch at `http://localhost:5173`.
 
 ---
 
-## 🖼️ Screenshots
-
-| Screenshot Placeholder | Description |
-| :--- | :--- |
-| ![Homepage Placeholder](https://placehold.co/600x400?text=QuickShow+Homepage) | Home screen displaying active film listings. |
-| ![Seat Grid Placeholder](https://placehold.co/600x400?text=Interactive+Seat+Layout) | Interactive seating reservation layout. |
-| ![Admin Panel Placeholder](https://placehold.co/600x400?text=Admin+Metrics+Dashboard) | Admin panel tracking metrics and creating shows. |
-
----
-
-## 📄 Documentation & Architecture deep-dive
+## 📄 Documentation & Architecture Deep-Dive
 
 For a highly detailed technical manual covering the low-level designs, database query metrics, API specifications, and onboarding steps, please refer to:
 * **[explaination.md](explaination.md)**
